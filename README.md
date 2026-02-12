@@ -53,7 +53,8 @@ Transcriptor is a simple Windows command-line tool that pulls **full YouTube tra
 ```powershell
 py -m pip install --upgrade pip
 py -m pip install youtube-transcript-api
-
+```
+`py -m pip install -r requirements.txt`
 
 ---
 
