@@ -109,6 +109,20 @@ Prefer MANUAL captions when available
 Some videos restrict transcript access in ways that can affect third-party tools
 
 
+## Launching with the .BAT (Windows)
+
+If you prefer double-click launch:
+
+1. Keep these files in the same folder:
+   - `transcriptor.py`
+   - `Transcriptor.bat`
+
+2. Double-click `Transcriptor.bat`
+
+The batch file will:
+- run the script using `py` (Python Launcher) if available, otherwise `python`
+- show a message if Python isn’t installed or not on PATH
+
 
 ---
 
