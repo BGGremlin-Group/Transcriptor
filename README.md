@@ -1,4 +1,11 @@
 # Transcriptor (Windows)
+```___________                                          __         __                 
+\__    ___/___________    ____   ______ ____ _______|__|_____ _/  |_  ____ _______ 
+  |    |  \_  __ \__  \  /    \ /  ___// ___\\_  __ \  |____ \\   __\/ __ \\_  __ \
+  |    |   |  | \// __ \_   |  \\___ \\  \___ |  | \/  |  |_\ \|  | (  \_\ )|  | \/
+  |____|   |__|  (____  /___|  /____  \\___  /|__|  |__|   ___/|__|  \____/ |__|   
+                      \/     \/     \/     \/          |__|                        
+```
 **By the BGGG — Background Gremlin Group**
 
 Transcriptor is a simple Windows command-line tool that pulls **full YouTube transcripts** (captions) and formats them in multiple readable styles, with reliable viewing and saving for **long transcripts**.
